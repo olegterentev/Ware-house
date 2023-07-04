@@ -1,0 +1,17 @@
+/Users/a18991642/Downloads/Warehouse/bin/Debug/Warehouse.exe.config
+/Users/a18991642/Downloads/Warehouse/bin/Debug/Warehouse.exe
+/Users/a18991642/Downloads/Warehouse/bin/Debug/Warehouse.pdb
+/Users/a18991642/Downloads/Warehouse/bin/Debug/Newtonsoft.Json.dll
+/Users/a18991642/Downloads/Warehouse/bin/Debug/Newtonsoft.Json.xml
+/Users/a18991642/Downloads/Warehouse/obj/Debug/Warehouse.csprojAssemblyReference.cache
+/Users/a18991642/Downloads/Warehouse/obj/Debug/Warehouse.FormReport.resources
+/Users/a18991642/Downloads/Warehouse/obj/Debug/Warehouse.FormSection.resources
+/Users/a18991642/Downloads/Warehouse/obj/Debug/Warehouse.FormWarehouse.resources
+/Users/a18991642/Downloads/Warehouse/obj/Debug/Warehouse.FormProduct.resources
+/Users/a18991642/Downloads/Warehouse/obj/Debug/Warehouse.Properties.Resources.resources
+/Users/a18991642/Downloads/Warehouse/obj/Debug/Warehouse.RandomForm.resources
+/Users/a18991642/Downloads/Warehouse/obj/Debug/Warehouse.csproj.GenerateResource.cache
+/Users/a18991642/Downloads/Warehouse/obj/Debug/Warehouse.csproj.CoreCompileInputs.cache
+/Users/a18991642/Downloads/Warehouse/obj/Debug/Warehouse.csproj.CopyComplete
+/Users/a18991642/Downloads/Warehouse/obj/Debug/Warehouse.exe
+/Users/a18991642/Downloads/Warehouse/obj/Debug/Warehouse.pdb
